@@ -18,16 +18,3 @@ git log
 # give us information about the changes we made in running the git
 # by doing this we know who changed what and by doing so we will know about the changes made by person also
 
-## on browser
-# Make a account at git hub by doing sign up option
-# fill the relevent details 
-# after making your account go to :
-# creat New Repository (+ symbole at the right hand side of window) 
-# fill the details and name repository properly with discription of your work (for testings stage just go with random)
-# then you will be on a new page where you are looking at 
-# a online service provider who gives you provide internet path to share your data.
-# Copy the SSH url then go to your PC
-
-## On PC
-type 
- 
