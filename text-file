@@ -1,0 +1,33 @@
+Refrence : https://www.youtube.com/watch?v=_eYJyRK-yaY&list=PLu0W_9lII9ahVQekD7ePHmnirTePXwIln&index=5
+
+## On PC 
+git status
+# to chack for the status of the file in it
+git init 
+# to club the files of txt in all in one and get hidden folder with .git name
+git add .
+# for doing staging area of the file  now untracked file status is gone
+git commit -m "vertion 1"
+# we will see the change and files will be commit means changed
+
+git config --global user.email "tryit@gamil.com"
+git config --global user.name "Hero narayan"
+# for doing the log of changes made by any person in the git we use the globle config
+
+git log
+# give us information about the changes we made in running the git
+# by doing this we know who changed what and by doing so we will know about the changes made by person also
+
+## on browser
+# Make a account at git hub by doing sign up option
+# fill the relevent details 
+# after making your account go to :
+# creat New Repository (+ symbole at the right hand side of window) 
+# fill the details and name repository properly with discription of your work (for testings stage just go with random)
+# then you will be on a new page where you are looking at 
+# a online service provider who gives you provide internet path to share your data.
+# Copy the SSH url then go to your PC
+
+## On PC
+type 
+ 
